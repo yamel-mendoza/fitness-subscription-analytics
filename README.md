@@ -2,10 +2,12 @@
 
 ## Customer Cohort Analysis
 Trend: Customer cancellations and churn happen gradually over time, but the steepest drop-off occurs within the first 1 to 3 months of subscription.
+
 Insight: Once customers cross the 3-month mark, retention rates stabilize into a reliable, long-term retention curve, with average retention hovering around 50%–60% at Month 3 across cohorts.
 
 ## Revenue Forecast
 The 12-month time-series forecast represents total transaction revenue generated across the platform, rather than recurring subscription revenue exclusively.
+
 Projections: Transaction revenue maintains a strong upward trajectory through 2026, scaling steadily from approximately $230K past $300K. The forecast exhibits consistent linear growth without seasonal ups and downs.
 
 ## CAC vs. LTV Analysis
