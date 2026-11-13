@@ -14,4 +14,5 @@ Projections: Transaction revenue maintains a strong upward trajectory through 20
 2024 Cohort: Recovers its customer acquisition costs by Month 3, establishing a solid foundation for long-term customer profitability.
 
 2025 Cohort: Recovers its customer acquisition costs by Month 5. While it takes slightly longer to reach break-even compared to the 2024 group, the 2025 cohort benefits from a higher overall lifetime value (LTV) curve.
+
 Strategic Benefits of the 2025 LTV Curve: A higher overall LTV trajectory delivers greater per-customer profitability over the long term, provides broader financial headroom to absorb acquisition expenses, and signals stronger customer engagement and monetization potential for stakeholders.
